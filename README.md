@@ -1,1 +1,2 @@
-HI THiS IS ACY
+Hi this is Acy
+and this is a sampple readme document
